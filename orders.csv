@@ -1,2 +1,4 @@
 orderId,tableNumber,paid,items
-1,1,true,1:2
+1,1,false,1:2|5:1
+2,2,true,2:1|7:2
+3,4,false,3:2|6:1|8:2
